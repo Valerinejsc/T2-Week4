@@ -1,4 +1,8 @@
 # T2-Week4
+Nama : Valerine Jesika Dewi
+NIM : F1D02310027
+Kelas : Pemrograman Visual C
+
 Membuat form registrasi multi-step dengan validasi real-time dan custom signal untuk notifikasi perpindahan antar step.
 
 1. Step 1
