@@ -1,4 +1,4 @@
-# T2-Week4
+# T2-Week4 Visual Programming
 Nama : Valerine Jesika Dewi
 NIM : F1D02310027
 Kelas : Pemrograman Visual C
